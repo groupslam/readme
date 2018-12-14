@@ -28,3 +28,5 @@
 ************************************************
 There are visualize.py and visualize_with_score.py, the first without the scores lable.
 if you want the scores one just instead the code or change import visualiza.py to visualize_with_score.py
+
+The furthur information can be found in the https://github.com/matterport/Mask_RCNN
